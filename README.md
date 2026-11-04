@@ -1,131 +1,65 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0B1D3A,100:312E81&height=240&section=header&text=DARK%20BLUE%20SOLUTIONS&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=BEYOND%20THE%20VISIBLE&descAlignY=58&descSize=16" width="100%" />
+# 🌌 DARK BLUE SOLUTIONS
 
-<br/>
+### Beyond the Visible.
 
-<a href="https://darkbluesolutions.com">
-  <img src="https://img.shields.io/badge/WEBSITE-darkbluesolutions.com-07111F?style=for-the-badge&logo=googlechrome&logoColor=5CE1E6" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences;Engineering+Intelligent+Software;Creating+Modern+Web+Solutions" alt="Typing SVG" />
 
-<a href="https://github.com/dark-blue-solutions">
-  <img src="https://img.shields.io/badge/GITHUB-DARK%20BLUE%20SOLUTIONS-07111F?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=5CE1E6&center=true&vCenter=true&width=700&lines=Engineering+Intelligent+Software.;Building+Digital+Experiences.;Developing+Modern+Web+Solutions.;Beyond+the+Visible." alt="Dark Blue Solutions introduction" />
+[![Website](https://img.shields.io/badge/Website-darkbluesolutions.com-0B1D3A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://darkbluesolutions.com/)
 
 </div>
 
 ---
 
-## About Dark Blue Solutions
+## 🌐 About Dark Blue Solutions
 
-Dark Blue Solutions is a South African technology company building modern software, digital experiences, and intelligent solutions.
+We are a South African technology company focused on building modern digital experiences, intelligent software, and custom technology solutions.
 
-We combine software engineering, thoughtful design, and emerging technologies to create digital products that solve real-world problems.
+We combine design, engineering, and innovation to help businesses move beyond the ordinary.
 
-Our work spans software development, artificial intelligence, e-commerce, data visualisation, and digital infrastructure.
+## ⚡ What We Do
 
-**Our philosophy:** Look beyond the obvious. Engineer what comes next.
+- 🌐 Web Development
+- 🛒 E-Commerce Solutions
+- ⚙️ Custom Software Engineering
+- 🤖 AI & Automation
+- ☁️ Cloud & Infrastructure
 
----
-
-## Featured Projects
+## 🛠️ Technology Stack
 
 <div align="center">
 
-### ONYX ALPHA
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Central Intelligence · Artificial Intelligence · Interactive Systems**
-
-<img src="https://github.com/dark-blue-solutions/dark-blue-solutions/raw/main/assets/onyx-alpha.png" width="100%" alt="Onyx Alpha AI assistant" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-Onyx Alpha is an intelligent AI assistant designed around an immersive and natural interaction model.
-
-At its centre is a dynamic particle-based intelligence orb, surrounded by an interface that brings conversational AI, voice interaction, and contextual information together.
-
-Rather than presenting AI as a conventional chat window, Onyx explores a more engaging way for users to communicate with intelligent software.
-
-**Core capabilities**
-
-- Interactive glass interface for communicating with the user
-- Conversational AI and voice interaction
-- Immersive particle-based visualisation
-- Intelligent agents and contextual information
-- Modern, responsive interface design
+## 🚀 Featured Projects
 
 <div align="center">
 
-[Explore Onyx Alpha](https://darkbluesolutions.com/)
+[![Holy Cannoli](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=holy-cannoli&theme=tokyonight)](https://github.com/YOUR_USERNAME/holy-cannoli)
+
+[![Onyx Alpha](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=onyx-alpha&theme=tokyonight)](https://github.com/YOUR_USERNAME/onyx-alpha)
 
 </div>
 
----
+## 📊 GitHub Statistics
 
 <div align="center">
 
-### SA SITUATION MONITOR
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
-**Situational Awareness · Geospatial Intelligence · Data Visualisation**
-
-<img src="https://github.com/dark-blue-solutions/dark-blue-solutions/raw/main/assets/sa-situation-monitor.png" width="100%" alt="SA Situation Monitor dashboard" />
-
-</div>
-
-SA Situation Monitor is a situational-monitoring platform focused on South Africa.
-
-The platform brings together geospatial visualisation, intelligence feeds, infrastructure monitoring, and national situational awareness into a unified digital environment.
-
-Designed around a dark operational interface, it presents complex information through interactive maps, data panels, and contextual visualisations.
-
-**Core capabilities**
-
-- Interactive South African geospatial mapping
-- Provincial and national situational views
-- Intelligence feeds and information filtering
-- Infrastructure and critical-asset visualisation
-- Data dashboards and contextual monitoring
-
-<div align="center">
-
-[Explore SA Situation Monitor](https://darkbluesolutions.com/)
-
-</div>
-
----
-
-## Technology
-
-<div align="center">
-
-### Frontend Engineering
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind" />
-
-### Backend & Data
-
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,python" />
-
-### Infrastructure & Development
-
-<img src="https://skillicons.dev/icons?i=cloudflare,vercel,github,git,docker" />
-
-</div>
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dark-blue-solutions&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=5CE1E6&icon_color=818CF8&text_color=CBD5E1" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-blue-solutions&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=5CE1E6&text_color=CBD5E1" width="42%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -137,16 +71,6 @@ Designed around a dark operational interface, it presents complex information th
 
 **BEYOND THE VISIBLE.**
 
-<br/>
-
-<a href="https://darkbluesolutions.com">
-  <img src="https://img.shields.io/badge/EXPLORE%20OUR%20WEBSITE-07111F?style=for-the-badge&logo=googlechrome&logoColor=5CE1E6" />
-</a>
-
-<br/><br/>
-
-South Africa
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:0B1D3A,100:020617&height=110&section=footer" width="100%" />
+[🌐 darkbluesolutions.com](https://darkbluesolutions.com/)
 
 </div>
